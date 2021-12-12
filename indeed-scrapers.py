@@ -13,7 +13,7 @@ import re
 #       CODING SECTION            #
 ###################################
 
-# Global variables that store all skills for a job title #
+# Global variables that store all skills for the specified job title #
 bag_of_skills = {}
 bag_of_skills_bigram = {}
 
@@ -171,7 +171,7 @@ def chose_skills(list_skills):
 
 # Miscellaneous function #
 def sleep_for_random_interval():
-    # This function allows the application to get more jobs before Indeeed's bot algorithm bans the IP address
+    # This function allows the application to get more jobs before Indeed's bot algorithm bans the IP address
     seconds = random() * 10
     sleep(seconds)
 
@@ -245,6 +245,6 @@ def main(job_title, job_location):
 
 if __name__ == '__main__':
     # job search settings
-    title = 'Data Scientist'
-    location = 'Kelowna'
+    title = 'Back End Developer'
+    location = ''
     main(title, location)

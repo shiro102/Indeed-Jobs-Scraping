@@ -1,0 +1,1 @@
+["design", "software", "knowledge", "code", "ability", "javascript", "backend", "product"]
