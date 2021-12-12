@@ -1,0 +1,1 @@
+["team", "knowledge", "adobe", "management", "design", "equipment", "software", "project", "edit"]

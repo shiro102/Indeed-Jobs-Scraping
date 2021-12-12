@@ -1,0 +1,1 @@
+["ability", "work", "test", "project", "management", "information", "team", "support", "software", "position", "service", "equipment", "system", "bachelor", "environment", "production", "process"]

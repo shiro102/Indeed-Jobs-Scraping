@@ -1,0 +1,1 @@
+["design", "knowledge", "engineering", "javascript", "team", "code", "business", "web", "bachelor", "support", "python"]

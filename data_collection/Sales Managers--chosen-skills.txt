@@ -1,0 +1,1 @@
+["business", "team", "management", "product", "company", "industry", "market", "environment", "time"]

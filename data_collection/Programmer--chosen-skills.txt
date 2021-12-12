@@ -1,0 +1,1 @@
+["team", "ability", "engineering", "code", "communication", "javascript", "management", "product", "business"]

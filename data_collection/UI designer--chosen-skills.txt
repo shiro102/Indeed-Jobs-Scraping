@@ -1,0 +1,1 @@
+["product", "team", "development", "research", "knowledge", "portfolio", "business", "customer", "environment", "web", "feedback", "software", "brand", "designer", "adobe", "figma", "sketch", "process", "year", "time"]

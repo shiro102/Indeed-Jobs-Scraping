@@ -1,0 +1,1 @@
+["cash", "alcohol", "age", "company", "time", "management", "stock"]

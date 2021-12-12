@@ -1,0 +1,1 @@
+["equipment", "job", "maintenance", "knowledge", "safety"]

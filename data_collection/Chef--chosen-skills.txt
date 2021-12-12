@@ -1,0 +1,1 @@
+["ability", "staff", "kitchen", "knowledge", "menu"]

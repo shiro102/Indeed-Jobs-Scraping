@@ -1,0 +1,1 @@
+["software", "knowledge", "design", "team", "year", "engineering", "bachelor", "javascript"]

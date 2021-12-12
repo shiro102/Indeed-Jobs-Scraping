@@ -1,0 +1,1 @@
+["business", "ability", "knowledge", "work", "engineering", "development", "product", "research", "team", "environment"]

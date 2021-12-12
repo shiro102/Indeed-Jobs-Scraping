@@ -1,0 +1,1 @@
+["software", "team", "development", "knowledge", "management", "product", "process", "business", "project", "environment", "qa", "support", "system", "year"]

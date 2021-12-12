@@ -1,0 +1,1 @@
+["bank", "management", "process", "branch", "time", "lending", "relationship", "member", "information", "industry", "staff"]

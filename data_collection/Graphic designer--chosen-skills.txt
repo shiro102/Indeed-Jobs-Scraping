@@ -1,0 +1,1 @@
+["brand", "year", "marketing", "knowledge", "portfolio", "production", "bachelor"]

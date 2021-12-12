@@ -1,0 +1,1 @@
+["news", "team", "content", "video", "communication", "production", "management"]

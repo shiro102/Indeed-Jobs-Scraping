@@ -1,0 +1,1 @@
+["ability", "practice", "experience", "knowledge", "team", "state", "equipment", "work", "insurance", "time", "progress", "staff", "support"]
